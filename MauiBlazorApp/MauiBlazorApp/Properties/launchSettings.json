@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MauiBlazorApp": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
